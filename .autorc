@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Bacon1053",
+  "repo": "container-xddahk",
+  "name": "Bacon1053",
+  "email": "nguyenthanhducgl1506@gmail.com",
+}
